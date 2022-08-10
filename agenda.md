@@ -10,3 +10,7 @@ Demonstration Agenda
     3. Merge the two branches
 5. How to undo a commit
 6. How to undo a merge commit
+7. Using a remote/github
+    1. Clone a repository
+    2. Push commits (via branch)
+    3. Create pull request
