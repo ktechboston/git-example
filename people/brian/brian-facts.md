@@ -23,3 +23,4 @@ Hobbies
 - Playing with cats
 - Singing karaoke
 - Gardening
+- Listening to music
