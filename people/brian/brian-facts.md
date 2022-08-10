@@ -20,3 +20,5 @@ Hobbies
 
 - Rock climbing
 - Video games
+- Singing karaoke
+- Listening to music
