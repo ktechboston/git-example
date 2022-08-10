@@ -20,3 +20,6 @@ Hobbies
 
 - Rock climbing
 - Video games
+- Playing with cats
+- Singing karaoke
+- Gardening
